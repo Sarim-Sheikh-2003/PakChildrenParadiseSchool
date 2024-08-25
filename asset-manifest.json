@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PakChildrenParadiseSchool/static/css/main.6e3e5fae.css",
-    "main.js": "/PakChildrenParadiseSchool/static/js/main.b8e7a2c4.js",
-    "static/js/453.735c8c0a.chunk.js": "/PakChildrenParadiseSchool/static/js/453.735c8c0a.chunk.js",
-    "static/media/Home3.jpg": "/PakChildrenParadiseSchool/static/media/Home3.a9c4178ed1d749f8cc68.jpg",
-    "static/media/Leadership.jpg": "/PakChildrenParadiseSchool/static/media/Leadership.1cfe6b5593667a502bb7.jpg",
-    "static/media/ContactUs.jpg": "/PakChildrenParadiseSchool/static/media/ContactUs.df6366854fb03b5aa09a.jpg",
-    "static/media/Home2.jpg": "/PakChildrenParadiseSchool/static/media/Home2.8248f4b62fca98ce7f14.jpg",
-    "static/media/Home1.jpg": "/PakChildrenParadiseSchool/static/media/Home1.0bcc375a84ee480966ce.jpg",
-    "static/media/CalendarPage.jpg": "/PakChildrenParadiseSchool/static/media/CalendarPage.bb6af6e315d45c81409f.jpg",
-    "static/media/AboutUs.jpg": "/PakChildrenParadiseSchool/static/media/AboutUs.e7be21a616aee64e680b.jpg",
-    "static/media/Logo.png": "/PakChildrenParadiseSchool/static/media/Logo.f49f57a23981e9143f23.png",
-    "index.html": "/PakChildrenParadiseSchool/index.html",
-    "main.6e3e5fae.css.map": "/PakChildrenParadiseSchool/static/css/main.6e3e5fae.css.map",
-    "main.b8e7a2c4.js.map": "/PakChildrenParadiseSchool/static/js/main.b8e7a2c4.js.map",
-    "453.735c8c0a.chunk.js.map": "/PakChildrenParadiseSchool/static/js/453.735c8c0a.chunk.js.map"
+    "main.css": "/static/css/main.a146c2aa.css",
+    "main.js": "/static/js/main.b1578426.js",
+    "static/js/453.735c8c0a.chunk.js": "/static/js/453.735c8c0a.chunk.js",
+    "static/media/Home3.jpg": "/static/media/Home3.a9c4178ed1d749f8cc68.jpg",
+    "static/media/Leadership.jpg": "/static/media/Leadership.1cfe6b5593667a502bb7.jpg",
+    "static/media/ContactUs.jpg": "/static/media/ContactUs.df6366854fb03b5aa09a.jpg",
+    "static/media/Home2.jpg": "/static/media/Home2.8248f4b62fca98ce7f14.jpg",
+    "static/media/Home1.jpg": "/static/media/Home1.0bcc375a84ee480966ce.jpg",
+    "static/media/CalendarPage.jpg": "/static/media/CalendarPage.bb6af6e315d45c81409f.jpg",
+    "static/media/AboutUs.jpg": "/static/media/AboutUs.e7be21a616aee64e680b.jpg",
+    "static/media/Logo.png": "/static/media/Logo.f49f57a23981e9143f23.png",
+    "index.html": "/index.html",
+    "main.a146c2aa.css.map": "/static/css/main.a146c2aa.css.map",
+    "main.b1578426.js.map": "/static/js/main.b1578426.js.map",
+    "453.735c8c0a.chunk.js.map": "/static/js/453.735c8c0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e3e5fae.css",
-    "static/js/main.b8e7a2c4.js"
+    "static/css/main.a146c2aa.css",
+    "static/js/main.b1578426.js"
   ]
 }
