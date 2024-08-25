@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Header from './Components/Header';
 import Home from './Pages/Home';
 import AboutUs from './Pages/AboutUs';
@@ -11,14 +11,13 @@ import Footer from './Components/Footer';
 function App() {
   return (
     <div className="App">
+      <Header />
       <Routes>
-        <Route element={<Header />}>
-          <Route path='/' element={<Home />}></Route>
-          <Route path='/AboutUs' element={<AboutUs />}></Route>
-          <Route path='/Leadership' element={<Leadership />}></Route>
-          <Route path='/Calendar' element={<CalendarPage />}></Route>
-          <Route path='/ContactUs' element={<ContactUs />}></Route>
-        </Route>
+        <Route path='/' element={<Home />}></Route>
+        <Route path='/AboutUs' element={<AboutUs />}></Route>
+        <Route path='/Leadership' element={<Leadership />}></Route>
+        <Route path='/Calendar' element={<CalendarPage />}></Route>
+        <Route path='/ContactUs' element={<ContactUs />}></Route>
       </Routes>
       <Footer />
     </div>

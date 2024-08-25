@@ -2,6 +2,7 @@ import { useNavigate, Outlet } from "react-router-dom";
 import Dropdown from 'react-bootstrap/Dropdown';
 import { RxHamburgerMenu } from "react-icons/rx";
 import "../Styles/Header.css";
+import Logo from "../Images/Logo.png"
 
 export default function Header() {
     const navigate = useNavigate();
@@ -14,7 +15,7 @@ export default function Header() {
         <>
             <div className="header">
                 <div className="name" onClick={() => OpenPage('/')}>
-                    <img src="/Logo.png" alt="School Logo" />
+                    <img src={Logo} alt="School Logo" />
                     <p>Pak Children Paradise School</p>
                 </div>
                 <div className="dropdown">
