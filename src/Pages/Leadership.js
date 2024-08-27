@@ -18,7 +18,7 @@ export default function Leadership() {
             <div className="leadership">
                 <div className="ourstaff">
                     <header>
-                        <h2>Principal : MRS TALAAT RAFIQ</h2>
+                        <h2>Principal : Mrs. Talaat Rafiq</h2>
                     </header>
                     <blockquote>
                         <p>
@@ -29,12 +29,12 @@ export default function Leadership() {
                         </p>
                     </blockquote>
                     <footer>
-                        <p>— MRS TALAAT RAFIQ</p>
+                        <p>— Mrs. Talaat Rafiq</p>
                     </footer>
                 </div>
                 <div className="ourstaff">
                     <header>
-                        <h2>Vice Principal: DR. SANIA RAFIQ</h2>
+                        <h2>Vice Principal: Dr. Sania Rafiq</h2>
                     </header>
                     <blockquote>
                         <p>
@@ -44,14 +44,14 @@ export default function Leadership() {
                         </p>
                     </blockquote>
                     <footer>
-                        <p>— DR. SANIA RAFIQ</p>
+                        <p>— Dr. Sania Rafiq</p>
                     </footer>
                 </div>
                 <div className="ourstaff">
-                    <h2>School Administrator : MR RAFIQ UR REHMAN KHAN</h2>
+                    <h2>School Administrator : Mr. Rafiq Ur Rehman Khan</h2>
                 </div>
                 <div className="ourstaff">
-                    <h2>Staff Coordinator: MRS AMBER SOHAIL</h2>
+                    <h2>Staff Coordinator: Mrs. Amber Sohail</h2>
                 </div>
             </div>
             <div className="founders">
