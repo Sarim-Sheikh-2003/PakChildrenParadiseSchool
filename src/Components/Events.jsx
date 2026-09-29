@@ -11,11 +11,7 @@ const recurringDates = [
     { title: "New School Year", month: 3, day: 1 },
     { title: "Summer Vacation", month: 5, day: 1, endMonth: 7, endDay: 1 },
     { title: "Independence Day Holiday", month: 7, day: 14 },
-    { title: "Bhaithi Day", month: 7, day: 20 },
-    { title: "Defense Day", month: 8, day: 6 },
-    { title: "Eid-Milad-Un-Nabi Holiday", month: 8, day: 16 },
-    { title: "Mid Term Exams", month: 9, day: 1, endMonth: 10, endDay: 1 },
-    { title: "Quaid-e-Azam Day", month: 11, day: 25 }
+    { title: "Bhaithi Day", month: 7, day: 20 }
 ];
 
 const startYear = 2024;
